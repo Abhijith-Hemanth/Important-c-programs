@@ -1,23 +1,23 @@
 # Basic C Programs
 
 This repository contains simple **C programs** that are commonly asked in interviews and useful for beginners.  
-Each program is written in C language and can be compiled and run using **GCC**.
+Each program is written in C and can be compiled using the **GCC compiler**.
 
 ---
 
 ## 📂 Programs Included
-1. Reverse of a Number  
-2. Palindrome Check  
-3. Factorial of a Number  
-4. Fibonacci Series  
-5. Prime Number Check  
-6. Sum of Digits  
+- `reverse.c` → Reverse of a Number  
+- `palindrome.c` → Palindrome Check  
+- `factorial.c` → Factorial of a Number  
+- `fibonacci.c` → Fibonacci Series  
+- `prime.c` → Prime Number Check  
+- `sum_of_digits.c` → Sum of Digits  
 
 ---
 
-## ⚙️ How to Run the Programs
+## ⚙️ How to Run
 
-### 1. Compile
-Open terminal inside the folder and type:
+### 1. Compile the program
+Open a terminal in the repo folder and run:
 ```bash
-gcc program_name.c -o program_name.exe
+gcc filename.c -o filename.exe
