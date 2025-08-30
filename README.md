@@ -7,7 +7,6 @@ Each program is written in C and can be compiled using the **GCC compiler**.
 
 ## 📂 Programs Included
 - `reverse.c` → Reverse of a Number  
-- `palindrome.c` → Palindrome Check  
 - `factorial.c` → Factorial of a Number  
 - `fibonacci.c` → Fibonacci Series  
 - `prime.c` → Prime Number Check  
